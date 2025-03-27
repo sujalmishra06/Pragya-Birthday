@@ -3,7 +3,7 @@ document
   .addEventListener("submit", function (event) {
     event.preventDefault();
 
-    const validUsername = "admin";
+    const validUsername = "pragyajii";
     const validPassword = "cutestgirl";
 
     const username = document.getElementById("username").value;
