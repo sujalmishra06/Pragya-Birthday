@@ -11,7 +11,7 @@ document
     const errorMessage = document.getElementById("error-message");
 
     if (username === validUsername && password === validPassword) {
-      window.location.href = "index.html";
+      window.location.href = "index1.html";
     } else {
       errorMessage.textContent = "Invalid username or password!";
     }
