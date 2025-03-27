@@ -1,0 +1,17 @@
+body {
+  background-color: aqua;
+  color: red;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.p1 {
+  width: 300px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  object-fit: cover;
+}
